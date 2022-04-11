@@ -1,9 +1,8 @@
 const userSocialMediaLinks = {
   github: 'nairoelsner',
-  youtube: 'madnesspiano',
+  youtube: 'nairoelsner',
   facebook: 'nairo.elsner',
   instagram: 'n_elsner',
-  twitter: 'nairo_elsner'
 }
 
 function changeSocialMediaLinks() {
