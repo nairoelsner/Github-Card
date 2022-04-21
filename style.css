@@ -42,12 +42,6 @@ main {
   margin: 11.5rem auto 0;
 }
 
-.avatar span {
-  position: absolute;
-  top: -15px;
-  z-index: 1;
-}
-
 .avatar > img {
   width: 10rem;
   height: 11.5rem;
